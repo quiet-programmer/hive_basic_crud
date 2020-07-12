@@ -1,11 +1,11 @@
 ## Todo with Hive
 
-A simple Todo app which uses the Hive plugin to enble save and persist data.
+A simple Todo app which uses the Hive plugin to enble save and persist data. The App might be updated soon.
 
 <table>
   <tbody>
     <tr>
-      <td><img src='https://github.com/quiet-programmer/hive_basic_crud/blob/master/ss/hive.jpg' width='300' height='730'></td>
+      <td><img src='https://github.com/quiet-programmer/hive_basic_crud/blob/master/ss/hive.jpg' width='300' height='700'></td>
 </table>
 
 ## Getting Started
